@@ -1,4 +1,3 @@
 #Hello Git
-Git 연습하기
-
+Git 연습
 
