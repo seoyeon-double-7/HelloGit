@@ -1,3 +1,3 @@
-#Hello Git
-Git 연습
+# Hello Git
+`Git` 연습
 
